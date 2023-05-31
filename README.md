@@ -73,9 +73,10 @@ background: #D90EEB;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 ```
 ## OUTPUT:
-![Output](./outf1.png)
-![Output](./outf2.png)
-![Output](./outf3.png)
+![outf1](https://github.com/22008650/Figma/assets/122548204/70afb885-a1f8-4e70-9328-8eb5677d2738)
+![outf2](https://github.com/22008650/Figma/assets/122548204/659c510c-d9e0-435c-82a8-0232d035ea7b)
+![outf3](https://github.com/22008650/Figma/assets/122548204/6a4f36c0-eba0-4d66-a8b3-cff8fea45b76)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
